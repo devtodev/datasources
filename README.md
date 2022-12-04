@@ -1,7 +1,7 @@
 # EPIC IO
 
 Objective
-This is simple Angular app to consume the provided JSON files and present the data to a user.
+This is simple Angular app to consume the provided JSON files and present the data.
 
 The app allow the user to select a data source from a list and display the data source’s time series data in a table.
  
@@ -10,11 +10,13 @@ The app allow the user to select a data source from a list and display the data 
 Install Data Sources with npm
 
 ```bash
-  git clone datasources
+  git clone https://github.com/devtodev/datasources.git
   cd datasources
   npm Install
   ng serve
 ```
+
+* Open your prefered browser and access to http://localhost:4200/
 
 ## Feedback
 
