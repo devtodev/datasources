@@ -21,4 +21,4 @@ Install Data Sources running the following commands:
 
 ## Feedback
 
-If you have any feedback, please reach out to us at cmiguens@gmail.com
+If you have any feedback, please reach out to me at cmiguens@gmail.com
